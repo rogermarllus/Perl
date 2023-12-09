@@ -1,5 +1,3 @@
-#!C:\Users\rbrpl\DOO\Perl
-
 # Desativando strict e warnings
 no strict;
 no warnings;
